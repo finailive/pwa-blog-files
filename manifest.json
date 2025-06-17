@@ -1,0 +1,20 @@
+{
+  "name": "SmartTravelly",
+  "short_name": "SmartTravelly",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/finailive/pwa-blog-files/refs/heads/main/smarttravelly-logo-bg.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/finailive/pwa-blog-files/refs/heads/main/smarttravelly-logo-bg.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
